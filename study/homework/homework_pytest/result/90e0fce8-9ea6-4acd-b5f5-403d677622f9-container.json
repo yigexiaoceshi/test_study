@@ -1,0 +1,1 @@
+{"uuid": "fa9b1ee8-57e8-46d5-8393-6ce7cf242071", "children": ["ffab253c-af85-4906-9cb9-99c455b5e07a"], "befores": [{"name": "test_picture", "status": "passed", "attachments": [{"source": "02397e99-ea95-4c21-84e1-aea39bcc0f4e-attachment.jpg", "type": "image/jpg"}], "start": 1630920168790, "stop": 1630920168792}], "start": 1630920168790, "stop": 1630920168819}

@@ -1,0 +1,109 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "ZeroDivisionError: division by zero",
+      "children" : [ {
+        "name" : "test_div_error[case1,除数为0]",
+        "uid" : "58930021b7b84316",
+        "parentUid" : "23d45e2b95d72e21c04056363d6f717f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630920168792,
+          "stop" : 1630920168792,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[5, 0, 'ZeroDivisionError']" ]
+      } ],
+      "uid" : "23d45e2b95d72e21c04056363d6f717f"
+    }, {
+      "name" : "TypeError: unsupported operand type(s) for /: 'str' and 'str'",
+      "children" : [ {
+        "name" : "test_div_error[输入的不是数字]",
+        "uid" : "abd073f0a78a5497",
+        "parentUid" : "4837767356304eb74935046ee47beada",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630920168821,
+          "stop" : 1630920168821,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "['a', 'b', 'TypeError']" ]
+      } ],
+      "uid" : "4837767356304eb74935046ee47beada"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 0.30000000000000004 == 0.3\n  +0.30000000000000004\n  -0.3",
+      "children" : [ {
+        "name" : "test_add_float[case1,true]",
+        "uid" : "15e265d6fd612bec",
+        "parentUid" : "320e36680fe67cbd9cff890a7f13a349",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168829,
+          "stop" : 1630920168829,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[0.1, 0.2, 0.3]" ]
+      } ],
+      "uid" : "320e36680fe67cbd9cff890a7f13a349"
+    }, {
+      "name" : "AssertionError: assert 1.5 == 0.9\n  +1.5\n  -0.9",
+      "children" : [ {
+        "name" : "test_add_float[case3,false]",
+        "uid" : "4704c69b858ae521",
+        "parentUid" : "0ee364d62e6c099d066fe62f69adeaa6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168839,
+          "stop" : 1630920168839,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[0.7, 0.8, 0.9]" ]
+      } ],
+      "uid" : "0ee364d62e6c099d066fe62f69adeaa6"
+    }, {
+      "name" : "AssertionError: assert 9 == 6\n  +9\n  -6",
+      "children" : [ {
+        "name" : "test_add_int[case2，false]",
+        "uid" : "51f6e31a736b52ef",
+        "parentUid" : "c596b7baa56066b00c31408eec74740a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168846,
+          "stop" : 1630920168846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[4, 5, 6]" ]
+      } ],
+      "uid" : "c596b7baa56066b00c31408eec74740a"
+    }, {
+      "name" : "AssertionError: assert 15 == 9\n  +15\n  -9",
+      "children" : [ {
+        "name" : "test_add_int[case3，false]",
+        "uid" : "cb5a0a071c01a594",
+        "parentUid" : "9534a1c27b5202b87211a20761b965dc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168850,
+          "stop" : 1630920168850,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[7, 8, 9]" ]
+      } ],
+      "uid" : "9534a1c27b5202b87211a20761b965dc"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

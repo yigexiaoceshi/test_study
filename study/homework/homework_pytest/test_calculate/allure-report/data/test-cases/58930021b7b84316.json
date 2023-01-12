@@ -1,0 +1,136 @@
+{
+  "uid" : "58930021b7b84316",
+  "name" : "test_div_error[case1,除数为0]",
+  "fullName" : "test_calculate.TestCalculate#test_div_error",
+  "historyId" : "bb464f215ebb8984a2ef4cc008b48bd1",
+  "time" : {
+    "start" : 1630920168792,
+    "stop" : 1630920168792,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "ZeroDivisionError: division by zero",
+  "statusTrace" : "self = <homework_pytest.test_calculate.test_calculate.TestCalculate object at 0x7fdb80d020a0>, get_calc = <homework_pytest.calculate.calculate.Calculate object at 0x7fdb80d02490>, get_div_data_error_byfixture = [5, 0, 'ZeroDivisionError']\ntest_picture = None\n\n    @allure.story(\"除法，数据不正确\")\n    @pytest.mark.run(order=1)\n    def test_div_error(self,get_calc,get_div_data_error_byfixture,test_picture):\n>       result = get_calc.div(get_div_data_error_byfixture[0],get_div_data_error_byfixture[1])\n\ntest_calculate.py:70: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <homework_pytest.calculate.calculate.Calculate object at 0x7fdb80d02490>, a = 5, b = 0\n\n    def div(self,a,b):\n>       return a/b\nE       ZeroDivisionError: division by zero\n\n../calculate/calculate.py:10: ZeroDivisionError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "get_calc",
+    "time" : {
+      "start" : 1630920168790,
+      "stop" : 1630920168790,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_div_data_error_byfixture",
+    "time" : {
+      "start" : 1630920168790,
+      "stop" : 1630920168790,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "test_picture",
+    "time" : {
+      "start" : 1630920168790,
+      "stop" : 1630920168792,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e0690ff38b1b8da",
+      "name" : "02397e99-ea95-4c21-84e1-aea39bcc0f4e-attachment.jpg",
+      "source" : "6e0690ff38b1b8da.jpg",
+      "type" : "image/jpg",
+      "size" : 61223
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ {
+    "name" : "get_calc::0",
+    "time" : {
+      "start" : 1630920168820,
+      "stop" : 1630920168820,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "计算器"
+  }, {
+    "name" : "story",
+    "value" : "除法，数据不正确"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculate"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculate"
+  }, {
+    "name" : "host",
+    "value" : "liyongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "98256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculate"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_div_data_error_byfixture",
+    "value" : "[5, 0, 'ZeroDivisionError']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "58930021b7b84316.json",
+  "parameterValues" : [ "[5, 0, 'ZeroDivisionError']" ]
+}

@@ -1,0 +1,24 @@
+add:
+    int:
+        intdata:
+          - [1,2,3]
+          - [4,5,6]
+          - [7,8,9]
+        intids: ["case1,true","case2，false","case3，false"]
+    float:
+       floatdata:
+          - [0.1,0.2,0.3]
+          - [0.4,0.5,0.9]
+          - [0.7,0.8,0.9]
+       floatids: ["case1,true","case2,true","case3,false"]
+div:
+    right:
+        rightdata:
+            - [10,2,5]
+            - [1.8,3,0.6]
+        rightids: ["case1,true","case2,true"]
+    error:
+        errordata:
+            - [5,0,"ZeroDivisionError"]
+            - [a,b,"TypeError"]
+        errorids: ["case1,除数为0","输入的不是数字"]

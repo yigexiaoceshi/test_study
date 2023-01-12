@@ -1,0 +1,1 @@
+{"uuid": "a9df5b1c-22d3-41e9-ba18-dd2214862943", "children": ["11b785f9-19f1-46d0-b4fb-bfb6f009076a"], "befores": [{"name": "test_text", "status": "passed", "attachments": [{"source": "6c31601a-4cd9-474c-8ccb-af2b505b30f0-attachment.txt", "type": "text/plain"}], "start": 1630920168836, "stop": 1630920168837}], "start": 1630920168836, "stop": 1630920168837}

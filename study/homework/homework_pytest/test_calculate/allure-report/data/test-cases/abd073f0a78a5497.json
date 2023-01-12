@@ -1,0 +1,136 @@
+{
+  "uid" : "abd073f0a78a5497",
+  "name" : "test_div_error[输入的不是数字]",
+  "fullName" : "test_calculate.TestCalculate#test_div_error",
+  "historyId" : "ba7419367180479ac552d923578ade8d",
+  "time" : {
+    "start" : 1630920168821,
+    "stop" : 1630920168821,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: unsupported operand type(s) for /: 'str' and 'str'",
+  "statusTrace" : "self = <homework_pytest.test_calculate.test_calculate.TestCalculate object at 0x7fdb80c66ee0>, get_calc = <homework_pytest.calculate.calculate.Calculate object at 0x7fdb80d6d520>, get_div_data_error_byfixture = ['a', 'b', 'TypeError']\ntest_picture = None\n\n    @allure.story(\"除法，数据不正确\")\n    @pytest.mark.run(order=1)\n    def test_div_error(self,get_calc,get_div_data_error_byfixture,test_picture):\n>       result = get_calc.div(get_div_data_error_byfixture[0],get_div_data_error_byfixture[1])\n\ntest_calculate.py:70: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <homework_pytest.calculate.calculate.Calculate object at 0x7fdb80d6d520>, a = 'a', b = 'b'\n\n    def div(self,a,b):\n>       return a/b\nE       TypeError: unsupported operand type(s) for /: 'str' and 'str'\n\n../calculate/calculate.py:10: TypeError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "get_calc",
+    "time" : {
+      "start" : 1630920168821,
+      "stop" : 1630920168821,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_div_data_error_byfixture",
+    "time" : {
+      "start" : 1630920168821,
+      "stop" : 1630920168821,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "test_picture",
+    "time" : {
+      "start" : 1630920168821,
+      "stop" : 1630920168821,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3e8d64e3fad04b5d",
+      "name" : "ea86c2d3-0491-4ea8-b4d2-46932e4387f7-attachment.jpg",
+      "source" : "3e8d64e3fad04b5d.jpg",
+      "type" : "image/jpg",
+      "size" : 61223
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ {
+    "name" : "get_calc::0",
+    "time" : {
+      "start" : 1630920168824,
+      "stop" : 1630920168824,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "计算器"
+  }, {
+    "name" : "story",
+    "value" : "除法，数据不正确"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculate"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculate"
+  }, {
+    "name" : "host",
+    "value" : "liyongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "98256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculate"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_div_data_error_byfixture",
+    "value" : "['a', 'b', 'TypeError']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "abd073f0a78a5497.json",
+  "parameterValues" : [ "['a', 'b', 'TypeError']" ]
+}

@@ -1,0 +1,145 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "计算器",
+    "children" : [ {
+      "name" : "除法，数据不正确",
+      "children" : [ {
+        "name" : "test_div_error[case1,除数为0]",
+        "uid" : "58930021b7b84316",
+        "parentUid" : "9eb99e49627cf39e4fc9e84bcbdec5d6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630920168792,
+          "stop" : 1630920168792,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[5, 0, 'ZeroDivisionError']" ]
+      }, {
+        "name" : "test_div_error[输入的不是数字]",
+        "uid" : "abd073f0a78a5497",
+        "parentUid" : "9eb99e49627cf39e4fc9e84bcbdec5d6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630920168821,
+          "stop" : 1630920168821,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "['a', 'b', 'TypeError']" ]
+      } ],
+      "uid" : "9eb99e49627cf39e4fc9e84bcbdec5d6"
+    }, {
+      "name" : "除法，数据正确",
+      "children" : [ {
+        "name" : "test_div_right[case1,true]",
+        "uid" : "d399bd3ab0dbf131",
+        "parentUid" : "7483954099c8c16eca6d8c302fb8a410",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630920168825,
+          "stop" : 1630920168826,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "[10, 2, 5]" ]
+      }, {
+        "name" : "test_div_right[case2,true]",
+        "uid" : "f398b199de60e62",
+        "parentUid" : "7483954099c8c16eca6d8c302fb8a410",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630920168827,
+          "stop" : 1630920168827,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[1.8, 3, 0.6]" ]
+      } ],
+      "uid" : "7483954099c8c16eca6d8c302fb8a410"
+    }, {
+      "name" : "加法，小数相加",
+      "children" : [ {
+        "name" : "test_add_float[case1,true]",
+        "uid" : "15e265d6fd612bec",
+        "parentUid" : "221a94ce8ba7bb73ad6b8967d10653df",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168829,
+          "stop" : 1630920168829,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[0.1, 0.2, 0.3]" ]
+      }, {
+        "name" : "test_add_float[case2,true]",
+        "uid" : "847f6bbb0ee2fc5f",
+        "parentUid" : "221a94ce8ba7bb73ad6b8967d10653df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630920168837,
+          "stop" : 1630920168837,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[0.4, 0.5, 0.9]" ]
+      }, {
+        "name" : "test_add_float[case3,false]",
+        "uid" : "4704c69b858ae521",
+        "parentUid" : "221a94ce8ba7bb73ad6b8967d10653df",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168839,
+          "stop" : 1630920168839,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[0.7, 0.8, 0.9]" ]
+      } ],
+      "uid" : "221a94ce8ba7bb73ad6b8967d10653df"
+    }, {
+      "name" : "加法，整数相加",
+      "children" : [ {
+        "name" : "test_add_int[case1,true]",
+        "uid" : "ff815c64cea3a846",
+        "parentUid" : "68be4dbd06eb8f5b2fe493a6800bf167",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630920168844,
+          "stop" : 1630920168844,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[1, 2, 3]" ]
+      }, {
+        "name" : "test_add_int[case2，false]",
+        "uid" : "51f6e31a736b52ef",
+        "parentUid" : "68be4dbd06eb8f5b2fe493a6800bf167",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168846,
+          "stop" : 1630920168846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[4, 5, 6]" ]
+      }, {
+        "name" : "test_add_int[case3，false]",
+        "uid" : "cb5a0a071c01a594",
+        "parentUid" : "68be4dbd06eb8f5b2fe493a6800bf167",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630920168850,
+          "stop" : 1630920168850,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "[7, 8, 9]" ]
+      } ],
+      "uid" : "68be4dbd06eb8f5b2fe493a6800bf167"
+    } ],
+    "uid" : "ee5eb3df34ef2c4d432b78c75f7f55b6"
+  } ]
+}

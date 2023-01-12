@@ -1,0 +1,130 @@
+{
+  "uid" : "847f6bbb0ee2fc5f",
+  "name" : "test_add_float[case2,true]",
+  "fullName" : "test_calculate.TestCalculate#test_add_float",
+  "historyId" : "8ce5c3ef6707c8d761b5032f9126139e",
+  "time" : {
+    "start" : 1630920168837,
+    "stop" : 1630920168837,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "get_add_data_float_byfixture",
+    "time" : {
+      "start" : 1630920168836,
+      "stop" : 1630920168836,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "test_text",
+    "time" : {
+      "start" : 1630920168836,
+      "stop" : 1630920168837,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6b0269ec648ba04e",
+      "name" : "6c31601a-4cd9-474c-8ccb-af2b505b30f0-attachment.txt",
+      "source" : "6b0269ec648ba04e.txt",
+      "type" : "text/plain",
+      "size" : 36
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "get_calc",
+    "time" : {
+      "start" : 1630920168836,
+      "stop" : 1630920168836,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "get_calc::0",
+    "time" : {
+      "start" : 1630920168838,
+      "stop" : 1630920168838,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "计算器"
+  }, {
+    "name" : "story",
+    "value" : "加法，小数相加"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculate"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculate"
+  }, {
+    "name" : "host",
+    "value" : "liyongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "98256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculate"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_add_data_float_byfixture",
+    "value" : "[0.4, 0.5, 0.9]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "847f6bbb0ee2fc5f.json",
+  "parameterValues" : [ "[0.4, 0.5, 0.9]" ]
+}

@@ -1,0 +1,130 @@
+{
+  "uid" : "d399bd3ab0dbf131",
+  "name" : "test_div_right[case1,true]",
+  "fullName" : "test_calculate.TestCalculate#test_div_right",
+  "historyId" : "b0b021d68b72f34d0bda8887857f7658",
+  "time" : {
+    "start" : 1630920168825,
+    "stop" : 1630920168826,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "get_calc",
+    "time" : {
+      "start" : 1630920168825,
+      "stop" : 1630920168825,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_div_data_right_byfixture",
+    "time" : {
+      "start" : 1630920168825,
+      "stop" : 1630920168825,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "test_picture",
+    "time" : {
+      "start" : 1630920168825,
+      "stop" : 1630920168825,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6f70c37e688655d2",
+      "name" : "139ddbb8-036d-407c-b9a3-f4cf7a40ba04-attachment.jpg",
+      "source" : "6f70c37e688655d2.jpg",
+      "type" : "image/jpg",
+      "size" : 61223
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ {
+    "name" : "get_calc::0",
+    "time" : {
+      "start" : 1630920168826,
+      "stop" : 1630920168826,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "计算器"
+  }, {
+    "name" : "story",
+    "value" : "除法，数据正确"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculate"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculate"
+  }, {
+    "name" : "host",
+    "value" : "liyongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "98256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculate"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_div_data_right_byfixture",
+    "value" : "[10, 2, 5]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "d399bd3ab0dbf131.json",
+  "parameterValues" : [ "[10, 2, 5]" ]
+}

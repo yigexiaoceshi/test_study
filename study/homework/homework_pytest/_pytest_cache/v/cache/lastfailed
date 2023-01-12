@@ -1,0 +1,10 @@
+{
+  "test_calculate/test_calculate.py::TestCalculate::test_add_float[case1,true]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_add_float[case3,false]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_add_int[case2\uff0cfalse]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_add_int[case3\uff0cfalse]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_div_error[case1,\u9664\u6570\u4e3a0]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_div_error[\u8f93\u5165\u7684\u4e0d\u662f\u6570\u5b57]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_div_right[case1,true]": true,
+  "test_calculate/test_calculate.py::TestCalculate::test_div_right[case2,true]": true
+}

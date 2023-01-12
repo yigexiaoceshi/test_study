@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18afbdcf-0473-4b25-aa99-678f6bb9763e" name="Changes" comment="Python基础巩固" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xksMFHbx8KnfHnhLpUtByXdPxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python基础巩固/part_004_字符串" />
+      <recent name="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+      <recent name="$PROJECT_DIR$/Python基础巩固/part_001_环境准备" />
+      <recent name="$PROJECT_DIR$/homework/homework_pytest" />
+      <recent name="$PROJECT_DIR$/homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.004_综合练习">
+    <configuration name="001_元组基础" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础巩固/part_006_元组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础巩固/part_006_元组/001_元组基础.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="001_集合基础" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础巩固/part_008_集合/001_集合基础.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="002_列表和元组的转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础巩固/part_006_元组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础巩固/part_006_元组/002_列表和元组的转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="002_集合练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础巩固/part_008_集合/002_集合练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="004_综合练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础巩固/part_008_集合/004_综合练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.004_综合练习" />
+        <item itemvalue="Python.002_集合练习" />
+        <item itemvalue="Python.001_集合基础" />
+        <item itemvalue="Python.002_列表和元组的转换" />
+        <item itemvalue="Python.001_元组基础" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18afbdcf-0473-4b25-aa99-678f6bb9763e" name="Changes" comment="" />
+      <created>1630910371435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630910371435</updated>
+      <workItem from="1630910373133" duration="100146000" />
+      <workItem from="1631265898835" duration="2797000" />
+      <workItem from="1631525056374" duration="179776000" />
+      <workItem from="1632539433804" duration="194394000" />
+      <workItem from="1635319381992" duration="26408000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交第一次作业：Pytest测试框架">
+      <created>1630920331612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630920331612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交第一次作业：Pytest测试框架，修改conftest.py文件的位置">
+      <created>1630924861131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630924861131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交第二次作业：web自动化（企业微信实现自动添加联系人）">
+      <created>1631092230952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631092230952</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交第二次作业：web自动化（企业微信实现自动添加联系人），删除联系人用例，和新增联系人失败的用例">
+      <created>1631158996145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631158996145</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交第二次作业：web自动化（企业微信实现自动添加联系人），一些小优化">
+      <created>1631175691547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631175691547</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交第二次作业：web自动化（企业微信实现自动添加联系人），更改编程规范">
+      <created>1631192640742</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631192640742</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交第二次作业：web自动化（企业微信实现自动添加联系人），更改命名规范">
+      <created>1631192750762</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631192750762</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交第二次作业：web自动化（企业微信实现自动添加联系人），更改get_members()里的members变量名为phone_list">
+      <created>1631256872381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631256872381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Python基础巩固">
+      <created>1632387938872</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632387938872</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Python基础巩固">
+      <created>1632464441925</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632464441925</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Python基础巩固">
+      <created>1632464767500</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632464767500</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Python基础巩固">
+      <created>1632468907795</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1632468907795</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Python基础巩固">
+      <created>1632476380685</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1632476380685</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Python基础巩固">
+      <created>1632496135106</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1632496135106</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Python基础巩固">
+      <created>1632544517853</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1632544517854</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Python基础巩固">
+      <created>1632653605759</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1632653605759</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Python基础巩固">
+      <created>1632727237656</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1632727237656</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Python基础巩固">
+      <created>1632907185909</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1632907185909</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Python基础巩固">
+      <created>1632923889060</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1632923889060</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Python基础巩固">
+      <created>1632986899626</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1632986899627</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Python基础巩固">
+      <created>1634025314826</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1634025314826</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Python基础巩固">
+      <created>1634195731484</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1634195731484</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Python基础巩固">
+      <created>1634196365318</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1634196365318</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Python基础巩固">
+      <created>1634528872163</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1634528872163</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Python基础巩固">
+      <created>1634536866760</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1634536866760</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Python基础巩固">
+      <created>1634538604605</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1634538604605</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Python基础巩固">
+      <created>1634622442896</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1634622442897</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Python基础巩固">
+      <created>1634639005140</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1634639005140</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Python基础巩固">
+      <created>1634697306174</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1634697306174</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Python基础巩固">
+      <created>1634715361306</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1634715361306</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Python基础巩固">
+      <created>1634871628379</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1634871628379</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Python基础巩固">
+      <created>1635392732235</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635392732235</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Python基础巩固">
+      <created>1635475928706</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1635475928706</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Python基础巩固">
+      <created>1635753612051</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1635753612051</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Python基础巩固">
+      <created>1635758624128</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635758624128</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Python基础巩固">
+      <created>1635821539407</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1635821539407</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Python基础巩固">
+      <created>1635832300147</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1635832300147</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Python基础巩固">
+      <created>1635833498632</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1635833498632</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Python基础巩固">
+      <created>1635834285323</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1635834285323</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Python基础巩固">
+      <created>1635842439395</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1635842439395</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Python基础巩固">
+      <created>1635843331835</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1635843331835</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交第一次作业：Pytest测试框架" />
+    <MESSAGE value="提交第一次作业：Pytest测试框架，修改conftest.py文件的位置" />
+    <MESSAGE value="提交第二次作业：web自动化（企业微信实现自动添加联系人）" />
+    <MESSAGE value="提交第二次作业：web自动化（企业微信实现自动添加联系人），删除联系人用例，和新增联系人失败的用例" />
+    <MESSAGE value="提交第二次作业：web自动化（企业微信实现自动添加联系人），一些小优化" />
+    <MESSAGE value="提交第二次作业：web自动化（企业微信实现自动添加联系人），更改编程规范" />
+    <MESSAGE value="提交第二次作业：web自动化（企业微信实现自动添加联系人），更改命名规范" />
+    <MESSAGE value="提交第二次作业：web自动化（企业微信实现自动添加联系人），更改get_members()里的members变量名为phone_list" />
+    <MESSAGE value="Python基础巩固" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python基础巩固" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study$009_.coverage" NAME="009_冒泡排序 Coverage Results" MODIFIED="1635831362819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_calculate_TestCalculate_test_div_right.coverage" NAME="pytest for test_calculate.TestCalculate.test_div_right Coverage Results" MODIFIED="1634201755314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_pytest/test_calculate" />
+    <SUITE FILE_PATH="coverage/study$013_.coverage" NAME="013_带参数的装饰器 Coverage Results" MODIFIED="1634103925154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_deletemember_TestDeleteMenber_test_deletemember.coverage" NAME="pytest for test_deletemember.TestDeleteMenber.test_deletemember Coverage Results" MODIFIED="1631173651870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_TestAddMember_test_addmember_fail.coverage" NAME="pytest for test_addmember_success.TestAddMember.test_addmember_fail Coverage Results" MODIFIED="1631173062322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$017_.coverage" NAME="017_递归函数 Coverage Results" MODIFIED="1634547706201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_deletemember_TestDeleteMenber_test_go_to_pagecontact.coverage" NAME="pytest for test_deletemember.TestDeleteMenber.test_go_to_pagecontact Coverage Results" MODIFIED="1631072784156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$1.coverage" NAME="1 Coverage Results" MODIFIED="1631170922337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$pytest_in_006__py.coverage" NAME="pytest in 006_全局变量和局部变量.py Coverage Results" MODIFIED="1632919696677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$0000030.coverage" NAME="0000030 Coverage Results" MODIFIED="1634542666007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_test_get_datas.coverage" NAME="pytest for test_addmember_success.test_get_datas Coverage Results" MODIFIED="1630980059865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$006_.coverage" NAME="006_全局变量和局部变量 Coverage Results" MODIFIED="1632923223246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$pytest_in_test_calculate_py.coverage" NAME="pytest in test_calculate.py Coverage Results" MODIFIED="1634201593110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_pytest/test_calculate" />
+    <SUITE FILE_PATH="coverage/study$006__.coverage" NAME="006_列表元素_查找 Coverage Results" MODIFIED="1635821501763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$005_while_else.coverage" NAME="005_while_else循环 Coverage Results" MODIFIED="1631858160187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_calculate_TestCalculate_test_div_error.coverage" NAME="pytest for test_calculate.TestCalculate.test_div_error Coverage Results" MODIFIED="1634201694422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_pytest/test_calculate" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_get_cookie_TestGetCookie_test_add_cookie.coverage" NAME="pytest for get_cookie.TestGetCookie.test_add_cookie Coverage Results" MODIFIED="1630978872567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/get_cookie" />
+    <SUITE FILE_PATH="coverage/study$014_.coverage" NAME="014_有返回值的装饰器 Coverage Results" MODIFIED="1634109218823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$007__.coverage" NAME="007_练习_停车计费系统 Coverage Results" MODIFIED="1632971274985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$001_.coverage" NAME="001_集合基础 Coverage Results" MODIFIED="1635841463859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+    <SUITE FILE_PATH="coverage/study$123__1_.coverage" NAME="123 (1) Coverage Results" MODIFIED="1632641820164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_TestAddMember.coverage" NAME="pytest for test_addmember_success.TestAddMember Coverage Results" MODIFIED="1631114959392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$016_.coverage" NAME="016_多层装饰器 Coverage Results" MODIFIED="1634540934368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$.coverage" NAME="没理解透彻 Coverage Results" MODIFIED="1635757376547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$88.coverage" NAME="88 Coverage Results" MODIFIED="1632495645420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+    <SUITE FILE_PATH="coverage/study$005_for_.coverage" NAME="006_for_循环 Coverage Results" MODIFIED="1631857085503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_TestAddMember_test_add_member_fail.coverage" NAME="pytest for test_addmember_success.TestAddMember.test_add_member_fail Coverage Results" MODIFIED="1635476223831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$002_variable.coverage" NAME="002_variable Coverage Results" MODIFIED="1631542729938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_002_基础数据类型" />
+    <SUITE FILE_PATH="coverage/study$010_.coverage" NAME="010_综合练习 Coverage Results" MODIFIED="1635833274766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$004_.coverage" NAME="004_综合练习 Coverage Results" MODIFIED="1635842728885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_TestAddMember_test_addmember_success.coverage" NAME="pytest for test_addmember_success.TestAddMember.test_addmember_success Coverage Results" MODIFIED="1631173009225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$009_continue.coverage" NAME="009_continue Coverage Results" MODIFIED="1631931361046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$23.coverage" NAME="23 Coverage Results" MODIFIED="1634115744468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$007_.coverage" NAME="007_列表声明及释放 Coverage Results" MODIFIED="1635822406884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$oo.coverage" NAME="oo Coverage Results" MODIFIED="1631116012539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$006_for_else.coverage" NAME="006_for_else循环 Coverage Results" MODIFIED="1631848443996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$002__.coverage" NAME="002_列表元素_新增 Coverage Results" MODIFIED="1635755350957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$001_variable.coverage" NAME="001_variable Coverage Results" MODIFIED="1631266413726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_002_基础数据类型" />
+    <SUITE FILE_PATH="coverage/study$005__.coverage" NAME="005_列表元素_修改 Coverage Results" MODIFIED="1635821351500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$123__2_.coverage" NAME="123 (2) Coverage Results" MODIFIED="1632707665278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_004_字符串" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_deletemember_test_deletemember.coverage" NAME="pytest for test_deletemember.test_deletemember Coverage Results" MODIFIED="1631072234625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$011_.coverage" NAME="011_闭包 Coverage Results" MODIFIED="1633937808276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$234.coverage" NAME="234 Coverage Results" MODIFIED="1632710374402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_calculate_TestCalculate_test_add_int.coverage" NAME="pytest for test_calculate.TestCalculate.test_add_int Coverage Results" MODIFIED="1634201665653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_pytest/test_calculate" />
+    <SUITE FILE_PATH="coverage/study$004_while_.coverage" NAME="004_while_循环 Coverage Results" MODIFIED="1634112033925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$019_.coverage" NAME="019_系统高阶函数 Coverage Results" MODIFIED="1634547124872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$003_.coverage" NAME="003_写入文本文件 Coverage Results" MODIFIED="1634630253120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_010_文件操作" />
+    <SUITE FILE_PATH="coverage/study$003_if.coverage" NAME="003_if简写 Coverage Results" MODIFIED="1631800530501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_test_get_datas_byfixture.coverage" NAME="pytest for test_addmember_success.test_get_datas_byfixture Coverage Results" MODIFIED="1630980469750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$008_.coverage" NAME="008_列表排序 Coverage Results" MODIFIED="1635824909801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$005_os.coverage" NAME="005_系统内置文件操作模块os Coverage Results" MODIFIED="1634712621257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_010_文件操作" />
+    <SUITE FILE_PATH="coverage/study$008_forwhile.coverage" NAME="008_for和while总结 Coverage Results" MODIFIED="1631864177890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$012_.coverage" NAME="012_装饰器 Coverage Results" MODIFIED="1633947635963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$004_while.coverage" NAME="004_循环语句while Coverage Results" MODIFIED="1631811062799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_003_循环" />
+    <SUITE FILE_PATH="coverage/study$123.coverage" NAME="123 Coverage Results" MODIFIED="1634712322374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_010_文件操作" />
+    <SUITE FILE_PATH="coverage/study$003__.coverage" NAME="003_列表元素_删除 Coverage Results" MODIFIED="1632652204923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_006__test2.coverage" NAME="pytest for 006_全局变量和局部变量.test2 Coverage Results" MODIFIED="1632919727975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$1361.coverage" NAME="1361 Coverage Results" MODIFIED="1632300122512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_004_字符串" />
+    <SUITE FILE_PATH="coverage/study$005_.coverage" NAME="005_函数的返回值 Coverage Results" MODIFIED="1632921069751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$018_.coverage" NAME="018_匿名函数 Coverage Results" MODIFIED="1634543566570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$py.coverage" NAME="py Coverage Results" MODIFIED="1631115167974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_calculate_TestCalculate_test_add_float.coverage" NAME="pytest for test_calculate.TestCalculate.test_add_float Coverage Results" MODIFIED="1634201677234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_pytest/test_calculate" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_test_addmember_success_TestGetData.coverage" NAME="pytest for test_addmember_success.TestGetData Coverage Results" MODIFIED="1630941649126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/test_company_wechat" />
+    <SUITE FILE_PATH="coverage/study$004__.coverage" NAME="004_列表元素_删除重复元素 Coverage Results" MODIFIED="1635756214537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_005_列表" />
+    <SUITE FILE_PATH="coverage/study$pytest_for_get_cookie_TestGetCookie_test_get_cookie.coverage" NAME="pytest for get_cookie.TestGetCookie.test_get_cookie Coverage Results" MODIFIED="1631169473924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/homework_PO_webauto_test/get_cookie" />
+    <SUITE FILE_PATH="coverage/study$015_.coverage" NAME="015_装饰器带参数 Coverage Results" MODIFIED="1634538178670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_009_函数" />
+    <SUITE FILE_PATH="coverage/study$002_.coverage" NAME="002_集合练习 Coverage Results" MODIFIED="1635842447130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python基础巩固/part_008_集合" />
+  </component>
+</project>
