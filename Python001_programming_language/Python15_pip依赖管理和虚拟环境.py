@@ -46,4 +46,3 @@ pip3 install 包名 -i 国内镜像源地址 --trusted-host 国内镜像源的ho
     注2：pycharm创建的虚拟环境界面，可以复制虚拟环境的路径，在命令行同样可以进行进入虚拟环境、进入python命令行、退出虚拟环境、包管理等操作
 附：pycharm设置页面，Project Interpreter页面的Project Interpreter下拉选择所有的环境，包括所有的虚拟环境和系统环境，可管理所有环境下所有的包
 """
-111
