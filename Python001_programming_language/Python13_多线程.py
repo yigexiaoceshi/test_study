@@ -148,4 +148,4 @@ if __name__ == "__main__":
     process4 = multiprocessing.Process(target=task2, args=(50000000, 100000000))
     process4.start()
     end_time1 = time.time()
-    print("一亿数字累加执行的总时长为：", end_time1 - start_time1)  # 0.03秒内
+    print("一亿数字累加执行的总时长为：", end_time1 - start_time1)  # 基本都在0.03秒内
