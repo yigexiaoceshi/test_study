@@ -1,0 +1,17 @@
+DEBUG:root:debug级别
+INFO:root:info级别
+WARNING:root:warning级别
+ERROR:root:error级别
+CRITICAL:root:critical级别
+DEBUG:root:debug级别
+INFO:root:info级别
+WARNING:root:warning级别
+ERROR:root:error级别
+CRITICAL:root:critical级别
+WARNING:root:发生了错误。
+DEBUG:root:debug级别
+INFO:root:info级别
+WARNING:root:warning级别
+ERROR:root:error级别
+CRITICAL:root:critical级别
+WARNING:root:发生了错误。

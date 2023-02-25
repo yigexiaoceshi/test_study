@@ -1,0 +1,8 @@
+2023-02-18 17:30:22,424 - simple_example - INFO - 这是INFO日志
+2023-02-18 17:30:22,424 - simple_example - WARNING - 这是WARNIND日志
+2023-02-18 17:30:22,424 - simple_example - ERROR - 这是ERROR日志
+2023-02-18 17:30:22,424 - simple_example - CRITICAL - 这是CRITICAL日志
+2023-02-18 17:33:32,459 - simple_example - INFO - 这是INFO日志
+2023-02-18 17:33:32,459 - simple_example - WARNING - 这是WARNIND日志
+2023-02-18 17:33:32,459 - simple_example - ERROR - 这是ERROR日志
+2023-02-18 17:33:32,459 - simple_example - CRITICAL - 这是CRITICAL日志
